@@ -1,0 +1,62 @@
+[
+  {
+    "chef_id": 1,
+    "chef_picture": "https://media.gettyimages.com/id/1212690832/photo/male-cook-preparing-food-in-commercial-kitchen.jpg?s=612x612&w=0&k=20&c=84hOgKUlKa8DEacYmsRgKK-8ZCf3WmyesZjYLUI1MFs=",
+    "chef_name": "John Smith",
+    "description": "Passionate about Italian cuisine and known for creating delicious pasta dishes.",
+    "rating": 3.5,
+    "experience": "8 years",
+    "number_of_recipes": 3,
+    "likes": 500
+  },
+  {
+    "chef_id": 2,
+    "chef_picture": "https://media.gettyimages.com/id/1175789225/photo/male-chef-garnishing-food.jpg?s=612x612&w=0&k=20&c=2nQZgOPrjaWsyVxGWlQBDI5ga_GCYVJy_ddMxKsYPwY=",
+    "chef_name": "Emily Johnson",
+    "description": "Specializes in Italian and French cuisine, with a love for creamy risottos and decadent desserts.",
+    "rating": 4.5,
+    "experience": "10 years",
+    "number_of_recipes": 3,
+    "likes": 450
+  },
+  {
+    "chef_id": 3,
+    "chef_picture": "https://media.gettyimages.com/id/1302280728/photo/mid-adult-chef-in-uniform-on-a-greyish-background.jpg?s=612x612&w=0&k=20&c=BJWVHWTSEEM4Cvn3nOrDd-kdxmhkOnp0oWbVvtIIVTE=",
+    "chef_name": "Michael Davis",
+    "description": "Master of comfort food and hearty dishes, making family recipes come to life.",
+    "rating": 4.0,
+    "experience": "12 years",
+    "number_of_recipes": 3,
+    "likes": 600
+  },
+  {
+    "chef_id": 4,
+    "chef_picture": "https://media.gettyimages.com/id/155095175/photo/chief.jpg?s=612x612&w=0&k=20&c=2dJKVmeAfeDRhdbuWk06VZNnd7xogk_MlPkInhHspDY=",
+    "chef_name": "Sophia Martinez",
+    "description": "Expert in Mediterranean and Middle Eastern cuisine, known for flavorful dishes and creative mezze.",
+    "rating": 4.2,
+    "experience": "9 years",
+    "number_of_recipes": 3,
+    "likes": 550
+  },
+  {
+    "chef_id": 5,
+    "chef_picture": "https://media.gettyimages.com/id/1085009424/photo/portrait-of-sous-chef-with-arms-crossed-in-standing-in-restaurant.jpg?s=612x612&w=0&k=20&c=c2Q2jz5hxxx6nI-btDxp3PEKCmpvCRVERaGGQszw6tY=",
+    "chef_name": "Daniel Brown",
+    "description": "Masters the art of barbecue, known for smoky flavors and mouthwatering grilled dishes.",
+    "rating": 4.7,
+    "experience": "15 years",
+    "number_of_recipes": 3,
+    "likes": 700
+  },
+  {
+    "chef_id": 6,
+    "chef_picture": "https://media.gettyimages.com/id/157589277/photo/portrait-of-happy-smiling-cook-in-chefs-hat-and-uniform.jpg?s=612x612&w=0&k=20&c=WJ-xEqqnRgUqtQ6ivTygd1DfPMn1oT41s0Czps5qHSU=",
+    "chef_name": "Olivia Taylor",
+    "description": "Creates delectable desserts and pastries, a true pastry chef with a sweet touch.",
+    "rating": 4.3,
+    "experience": "11 years",
+    "number_of_recipes": 3,
+    "likes": 600
+  }
+]

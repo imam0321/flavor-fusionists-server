@@ -1,0 +1,176 @@
+[
+  {
+    "_id": 1,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_description": "A classic Roman pasta dish with eggs, pancetta, and cheese.",
+        "recipe_rating": 4.0,
+        "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan Cheese", "Black Pepper"],
+        "recipe_picture": "spaghetti_carbonara.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Grilled Salmon",
+        "recipe_description": "Fresh salmon fillet grilled to perfection with a hint of lemon and dill.",
+        "recipe_rating": 3.5,
+        "ingredients": ["Salmon Fillet", "Olive Oil", "Lemon", "Dill", "Salt", "Black Pepper"],
+        "recipe_picture": "grilled_salmon.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chicken Parmesan",
+        "recipe_description": "Crispy chicken breast smothered in tomato sauce and melted mozzarella.",
+        "recipe_rating": 4.0,
+        "ingredients": ["Chicken Breast", "Tomato Sauce", "Mozzarella Cheese", "Bread Crumbs", "Oregano"],
+        "recipe_picture": "chicken_parmesan.jpg"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Mushroom Risotto",
+        "recipe_description": "Creamy Arborio rice cooked with mushrooms and a touch of white wine.",
+        "recipe_rating": 4.5,
+        "ingredients": ["Arborio Rice", "Mushrooms", "Onion", "White Wine", "Chicken Broth", "Butter"],
+        "recipe_picture": "mushroom_risotto.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Lemon Herb Roasted Chicken",
+        "recipe_description": "Whole chicken roasted with zesty lemon and aromatic herbs.",
+        "recipe_rating": 4.0,
+        "ingredients": ["Whole Chicken", "Lemon", "Garlic", "Thyme", "Rosemary", "Olive Oil"],
+        "recipe_picture": "lemon_herb_chicken.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chocolate Mousse",
+        "recipe_description": "Indulgent chocolate mousse with a rich and creamy texture.",
+        "recipe_rating": 4.5,
+        "ingredients": ["Chocolate", "Heavy Cream", "Sugar", "Egg Yolks", "Vanilla Extract"],
+        "recipe_picture": "chocolate_mousse.jpg"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Stroganoff",
+        "recipe_description": "Tender beef strips in a rich and creamy mushroom sauce served over egg noodles.",
+        "recipe_rating": 3.5,
+        "ingredients": ["Beef Strips", "Onion", "Mushrooms", "Sour Cream", "Paprika", "Egg Noodles"],
+        "recipe_picture": "beef_stroganoff.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Crispy Baked Chicken Wings",
+        "recipe_description": "Crispy chicken wings with a flavorful seasoning, baked to perfection.",
+        "recipe_rating": 4.0,
+        "ingredients": ["Chicken Wings", "Flour", "Paprika", "Garlic Powder", "Salt", "Pepper"],
+        "recipe_picture": "baked_chicken_wings.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Lemon Blueberry Pancakes",
+        "recipe_description": "Fluffy pancakes with fresh blueberries and a hint of lemon zest.",
+        "recipe_rating": 4.0,
+        "ingredients": ["Pancake Mix", "Blueberries", "Lemon Zest", "Buttermilk", "Maple Syrup"],
+        "recipe_picture": "blueberry_pancakes.jpg"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Hummus and Pita",
+        "recipe_description": "Smooth and creamy hummus served with warm pita bread.",
+        "recipe_rating": 4.0,
+        "ingredients": ["Chickpeas", "Tahini", "Lemon Juice", "Olive Oil", "Garlic", "Pita Bread"],
+        "recipe_picture": "hummus_pita.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Greek Salad",
+        "recipe_description": "A classic Greek salad with fresh vegetables, olives, and feta cheese.",
+        "recipe_rating": 4.5,
+        "ingredients": ["Cucumber", "Tomato", "Kalamata Olives", "Feta Cheese", "Red Onion", "Olive Oil"],
+        "recipe_picture": "greek_salad.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Falafel",
+        "recipe_description": "Crispy and flavorful chickpea patties served with tahini sauce.",
+        "recipe_rating": 4.2,
+        "ingredients": ["Chickpeas", "Cilantro", "Cumin", "Garlic", "Tahini Sauce", "Pita Bread"],
+        "recipe_picture": "falafel.jpg"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Texas BBQ Ribs",
+        "recipe_description": "Fall-off-the-bone pork ribs slathered in homemade barbecue sauce.",
+        "recipe_rating": 4.8,
+        "ingredients": ["Pork Ribs", "BBQ Sauce", "Brown Sugar", "Paprika", "Garlic Powder", "Salt"],
+        "recipe_picture": "bbq_ribs.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Grilled Corn on the Cob",
+        "recipe_description": "Fresh corn on the cob grilled with butter and your choice of seasonings.",
+        "recipe_rating": 4.5,
+        "ingredients": ["Corn on the Cob", "Butter", "Salt", "Pepper", "Garlic Powder"],
+        "recipe_picture": "grilled_corn.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Smoked Brisket",
+        "recipe_description": "Tender and smoky beef brisket seasoned to perfection and smoked low and slow.",
+        "recipe_rating": 4.7,
+        "ingredients": ["Beef Brisket", "Dry Rub", "Wood Chips", "Barbecue Sauce", "Onion", "Garlic"],
+        "recipe_picture": "smoked_brisket.jpg"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chocolate Soufflé",
+        "recipe_description": "An elegant chocolate soufflé with a gooey, molten center.",
+        "recipe_rating": 4.2,
+        "ingredients": ["Chocolate", "Egg Whites", "Sugar", "Butter", "Cocoa Powder", "Vanilla Extract"],
+        "recipe_picture": "chocolate_souffle.jpg"
+      },
+      {
+        "recipe_id": 1,
+        "recipe_name": "Raspberry Cheesecake",
+        "recipe_description": "Creamy cheesecake with a raspberry swirl and graham cracker crust.",
+        "recipe_rating": 4.4,
+        "ingredients": ["Cream Cheese", "Raspberries", "Sugar", "Eggs", "Graham Crackers", "Butter"],
+        "recipe_picture": "raspberry_cheesecake.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Tiramisu",
+        "recipe_description": "Classic Italian tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream.",
+        "recipe_rating": 4.8,
+        "ingredients": ["Ladyfingers", "Espresso", "Mascarpone Cheese", "Egg Yolks", "Cocoa Powder", "Coffee Liqueur"],
+        "recipe_picture": "tiramisu.jpg"
+      }
+    ]
+  }
+]
