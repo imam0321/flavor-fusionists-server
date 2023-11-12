@@ -20,6 +20,17 @@ app.get('/recipes', (req, res)=>{
   res.send(recipes);
 })
 
+app.get('/recipes/:id', (req, res)=>{
+  const id = parseInt(req.params.id);
+  const selectedRecipes = recipes.find(r => r._id === id);
+  res.send(selectedRecipes);
+})
+
+app.get('/chefs/:id', (req, res)=>{
+  const id = parseInt(req.params.id);
+  const chefRecipes = recipes.find(r => r._id === id);
+  res.send(chefRecipes);
+})
 
 app.listen(port, ()=> {
   console.log(`this is ${port}`);
