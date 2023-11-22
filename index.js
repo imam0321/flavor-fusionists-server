@@ -7,6 +7,7 @@ app.use(cors());
 
 const chefs = require('./data/chef.json');
 const recipes = require('./data/recipes.json');
+const blogs = require('./data/blogs.json');
 
 app.get('/', (req, res)=>{
   res.send('Flavor Fusionists chefs');
@@ -26,10 +27,14 @@ app.get('/recipes/:id', (req, res)=>{
   res.send(selectedRecipes);
 })
 
-app.get('/chefs/:id', (req, res)=>{
+app.get('/chefs/chef/recipes/:id', (req, res)=>{
   const id = parseInt(req.params.id);
   const chefRecipes = recipes.find(r => r._id === id);
   res.send(chefRecipes);
+})
+
+app.get('/blogs', (req, res)=> {
+  res.send(blogs);
 })
 
 app.listen(port, ()=> {

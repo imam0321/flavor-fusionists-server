@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "question" : "Differences between uncontrolled and controlled components.",
+    "answer" : "In React, controlled components use React state to manage form element values, providing explicit control and facilitating features like validation. Uncontrolled components, on the other hand, let form elements maintain their own internal state, often using refs to interact with the DOM directly. Controlled components are preferred for more control and complex scenarios, while uncontrolled components are simpler and may be suitable for straightforward use cases or integration with non-React code. The choice depends on the specific needs and complexity of the application."
+  },
+  {
+    "id" : 2,
+    "question" : "How to validate React props using PropTypes?",
+    "answer" : "In React, PropTypes is a library that allows you to specify the types of props that a React component should receive. It helps catch bugs early by providing a way to declare the expected types of the props that a component should receive."
+  },
+  {
+    "id" : 3,
+    "question" : "Differences between nodejs and express js.",
+    "answer" : "Node.js is a runtime environment that allows the execution of JavaScript on the server side. Express.js is a web application framework for Node.js that simplifies the process of building web applications by providing additional features, routing, middleware, and template engine support."
+  },
+  {
+    "id" : 4,
+    "question" : "What is a custom hook, and why will you create a custom hook?",
+    "answer" : "A custom hook in React is a JavaScript function that encapsulates reusable logic related to a specific concern. Custom hooks are a way to abstract and share stateful logic between components without duplicating code. They allow you to extract and reuse complex logic, making your code more modular and maintainable. If you find yourself writing the same logic in multiple components, extracting that logic into a custom hook allows you to reuse it across different parts of your application."
+  }
+]
